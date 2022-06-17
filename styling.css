@@ -10,12 +10,12 @@ margin:100px;
   line-height: 25px;
   text-align: center;
   
-  width:500px;
-  color: ;
+  
+  
   font: 600 17px sans-serif;
 }
 a{text-decoration:none;
-color:#fff ;
+color:#fff ;}
 /****nested flex*****/
 .nested{display:flex;
 flex-direction: column;
